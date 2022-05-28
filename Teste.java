@@ -3,5 +3,13 @@ public class Teste {
         
         System.out.println("OIEEE");
         System.out.println("testando...");
+
+        int valor = 3;
+        
+        if (valor > 10) {
+
+            System.out.println("FOI!");
+            
+        }
     }
 }
