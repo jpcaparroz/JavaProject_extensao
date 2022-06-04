@@ -5,5 +5,11 @@ public class Teste {
         System.out.println("testando...");
         System.out.println("Mais uma... xd");
 
+        int valor = 3;
+        
+        if (valor > 10) {
+
+            System.out.println("FOI!");
+        }
     }
 }
